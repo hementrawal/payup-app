@@ -15,4 +15,8 @@ public class ExpenseRequest {
     String description;
     String createdBy;
     List<UserExpense> users;
+
+    public int multiplication(int a, int b) {
+        return a * b;
+    }
 }
