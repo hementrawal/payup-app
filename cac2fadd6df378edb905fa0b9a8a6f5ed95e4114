@@ -1,0 +1,23 @@
+src/main/java/com/payup/payupapp/model/ExpenseRequest.java
+  8c34698e82c5ead7 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.7",
+  "base_commit_sha": "cac2fadd6df378edb905fa0b9a8a6f5ed95e4114",
+  "prompts": {
+    "8c34698e82c5ead7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "24a7ea99-b2c4-4670-a0f6-58ab772b828b",
+        "model": "default"
+      },
+      "human_author": "hementrawal",
+      "messages": [],
+      "total_additions": 25,
+      "total_deletions": 22,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
