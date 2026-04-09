@@ -19,4 +19,7 @@ public class ExpenseRequest {
     public int multiplication(int a, int b) {
         return a * b;
     }
+
+    public void dummy() {
+    }
 }
